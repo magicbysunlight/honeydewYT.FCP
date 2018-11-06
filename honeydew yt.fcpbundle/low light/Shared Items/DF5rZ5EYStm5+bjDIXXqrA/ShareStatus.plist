@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>export</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>Friday, October 5, 2018 at 10:06:21 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-10-06T05:06:21Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/low light 1.0.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>DF5rZ5EYStm5+bjDIXXqrA - 2018-10-06 04:48:54 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>Friday, October 5, 2018 at 10:36:11 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-10-06T05:36:11Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/low light 1.1.m4v</string>
+			</array>
+			<key>sourceFP</key>
+			<string>DF5rZ5EYStm5+bjDIXXqrA - 2018-10-06 05:18:17 +0000</string>
+		</dict>
+	</array>
+</dict>
+</plist>
